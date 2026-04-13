@@ -1,15 +1,26 @@
-# C++ Fundamentals Learning 🚀
+# CSAI Fundamentals Archive 🚀
 
-Welcome to my C++ repository! This space documents my progress and problem-solving journey in C++ fundamentals as a first-year Computer Science and Artificial Intelligence (CSAI) student. 
+Welcome to my programming journey! This repository is a central hub for my academic projects and exercises as a **Computer Science and Artificial Intelligence (CSAI)** student. It documents my progress in mastering core programming concepts using C++ and Python.
 
 ## 📂 Repository Structure
 
-* **`/Programs`** This is the main folder where I keep all my code. It serves as my active workspace for writing, testing, and storing my C++ exercises as I learn and apply new programming concepts.
+The repository is organized by programming language, with each section containing a dedicated programs folder:
 
-## 🎯 Goal
-The main purpose of this repository is to track my academic progress, keep a secure backup of my early work, and build a strong foundation in problem-solving and software development.
+### 1. [CPP](./CPP) 
+Contains foundational C++ exercises and programs.
+* **Location:** `/CPP/programs`
+* **Key Concepts:** Variables, Logic Gates, Conditional Statements (If/Else), File I/O (fstream), Basic Object-Oriented Programming (Classes & Constructors) and more.
 
-## 🛠️ Tools & Technologies
-* **Language:** C++
-* **IDE / EDITOR:** [CodeBlocks and VS Code]
-* **Concepts Covered:** Variables, Arithmetic Operators, Conditionals, File I/O, and Basics of Object-Oriented Programming (OOP), etc. .
+### 2. [Python](./PY)
+Contains various Python scripts, from basic math logic to interactive loops.
+* **Location:** `/PY/programs`
+* **Key Concepts:** Python Syntax, Math Module, Loops (For/While), String Manipulation, User Input Validation and more.
+
+## 🎯 Goals
+* **Track Progress:** Documenting my growth from basic "Hello World" scripts to complex logic.
+* **Clean Code:** Practicing professional naming conventions (snake_case for Python and camelCase/TitleCase for C++).
+* **Backup:** Maintaining a secure, version-controlled history of my university coursework.
+
+## 🛠️ Tech Stack
+* **Languages:** C++, Python 3.12
+* **IDEs / Editors :** Visual Studio Code, Code::Blocks
